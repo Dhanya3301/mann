@@ -15,7 +15,8 @@ export default function Home() {
             </h1>
             <p className="mt-3 max-w-md mx-auto text-base text-indigo-200 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
               Unlock the power of sentiment analysis for YouTube videos. Gain
-              valuable insights into your audience's reactions and emotions.
+              valuable insights into your audience&apos;s reactions and
+              emotions.
             </p>
             <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
               <div className="rounded-md shadow">
